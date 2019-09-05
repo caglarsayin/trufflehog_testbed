@@ -1,4 +1,2 @@
-removed
-sayin
 
 removed this
